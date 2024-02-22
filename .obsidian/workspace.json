@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Parenting/Parenting for Motivation.md",
+                "file": "Areas/Testing/Unit Testing Principles, Practices, and Patterns/_Unit Testing Principles, Practices, and Patterns.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Parenting/Parenting for Motivation.md",
+                "file": "Areas/Testing/Unit Testing Principles, Practices, and Patterns/_Unit Testing Principles, Practices, and Patterns.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Parenting/Parenting for Motivation.md",
+                "file": "Areas/Testing/Unit Testing Principles, Practices, and Patterns/_Unit Testing Principles, Practices, and Patterns.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Parenting/Parenting for Motivation.md"
+                "file": "Areas/Testing/Unit Testing Principles, Practices, and Patterns/_Unit Testing Principles, Practices, and Patterns.md.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "e11debefeac3259d",
   "lastOpenFiles": [
-    "Areas/Software/Documentation.png",
-    "Areas/Productivity/Atomic Habits.md",
     "Areas/Parenting/Parenting for Motivation.md",
-    "Areas/Software",
-    "Areas/Productivity/Building a Second Brain.md",
-    "Areas/Parenting",
+    "Areas/Productivity/Atomic Habits.md",
     "Areas/Productivity/Motivation 20 Questions.md",
+    "Areas/Productivity/Building a Second Brain.md",
     "Areas/Productivity/Drive/Drive.md",
     "Areas/Productivity/Drive/How-Extraordinary-Leaders-Double-Profit_WP-2019.pdf",
+    "Projects/Untitled.md",
+    "Projects/Unit Testing Presentation",
+    "Areas/Software/Documentation.png",
+    "Areas/Software",
+    "Areas/Parenting",
     "Areas/Testing/Unit Testing Principles, Practices, and Patterns/_Unit Testing Principles, Practices, and Patterns.md.md",
     "Areas/Productivity/Motivation 4abedffd6c2140dcb39665696ea641a2.md",
     "Areas/Productivity/Drive",
@@ -165,7 +167,6 @@
     "Areas",
     "Archieve",
     "Projects",
-    "Resources",
     "Welcome.md",
     "Inbox/Recommendations for writing concurrency/Recommendations for writing concurrent functions in GO.md",
     "Areas/Testing/Unit Testing Principles, Practices, and Patterns/Pasted image 20240216151456.png",

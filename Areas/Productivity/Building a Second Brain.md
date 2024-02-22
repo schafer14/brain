@@ -1,5 +1,3 @@
-
-
 ## Summary
 
 - **Attention is our most valuable asset, and our ability to direct our attention is our most valuable skill.**
@@ -39,7 +37,7 @@ Only capture what is truly noteworthy, remarkable or insightful.
 
 Keep what resonates safely. Protect these notes like the valuable resources they are.
 
-**It’s up to you to control the flow of information into your second brain. You decide what information you want more or less of and what you do with the information.**
+<mark style="background: #D2B3FFA6;">**It’s up to you to control the flow of information into your second brain. You decide what information you want more or less of and what you do with the information.**</mark>
 
 Notes can be captured from a variety of sources, both internal and external: 
 
@@ -77,7 +75,7 @@ When capturing a note, capture the source information such as the original websi
 
 Studies show that journaling your inner thoughts leads to fewer doctor visits, improved immune system and reduced stress. 
 
-Always ask yourself, **“What would this look like if it was easy?”**. For example, when developing your capturing tools, ask yourself what the best capturing system would look like, and then find the tools that facilitate as close a process as possible to your ideal.
+Always ask yourself, <mark style="background: #D2B3FFA6;">**“What would this look like if it was easy?”**</mark>. For example, when developing your capturing tools, ask yourself what the best capturing system would look like, and then find the tools that facilitate as close a process as possible to your ideal.
 
 ## Organise
 
@@ -131,14 +129,13 @@ For example, one day, the author was on a road trip and listening to a podcast h
 
 The result of the creative process can be products so simple they look like anyone could have made them. That simplicity masks the effort and mastery required to get there.
 
-**Progressive Summaries are not a method for remembering as much as possible; they are for forgetting as much as possible.** **As your ideas become distilled, they naturally improve because you drop the mere good parts and let the great parts stand out.**
+<mark style="background: #D2B3FFA6;">**Progressive Summaries are not a method for remembering as much as possible; they are for forgetting as much as possible.** **As your ideas become distilled, they naturally improve because you drop the mere good parts and let the great parts stand out.**</mark>
 
 You shouldn’t start on a layer of a Progressive Summary until you are ready to use the note in one of your creative works. This is because it takes much more effort to distil notes than capture or organise them. We want to spend our effort only on what we know will be valuable, so we don’t distil until we are ready to use the note.
 
 When preparing to create a piece of work, do a layer of Progressive Summarising on a few notes that you think will be relevant. That way, you get some ideas for your work immediately.
 
-> **When the opportunity arrives to do our best work, it’s not the time to start reading books and doing research. You need that research to already be done.**
-> 
+> <mark style="background: #D2B3FFA6;"> **When the opportunity arrives to do our best work, it’s not the time to start reading books and doing research. You need that research to already be done.** </mark>
 
 ## Express
 
@@ -150,7 +147,7 @@ We can fall into hoarding notes and information, but this is not what the second
 
 The ability to strategically and intentionally allocate our attention is a competitive advantage in the modern world. We need to aggressively protect and guard our attention like the precious attention it is.
 
-**Our Second Brain aims to build a system that frees up our attention for our creative pursuits.**
+<mark style="background: #D2B3FFA6;">**Our Second Brain aims to build a system that frees up our attention for our creative pursuits.**</mark>
 
 When working on a project, we focus on getting to a final product without realising that the intermediate work in the process is also valuable. We keep work in the process only in our heads and discard it when the project is complete.
 
@@ -182,7 +179,7 @@ Intermediate Packets allow you to think of ideas as connected networks of notes 
 
 Everything creative is a remix of other works. The wider the variety of inputs and sources, the more creative and original your results will become.
 
-**Reframing your productivity regarding Intermediate Packets requires thinking of *building blocks* and *assets* instead of tasks and more tasks.**
+**Reframing your productivity regarding<mark style="background: #D2B3FFA6;"> Intermediate Packets requires thinking of *building blocks* and *assets* instead of tasks and more tasks.</mark>**
 
 > Ideas are merely thoughts until you put them into action.
 - Tiago Forte
@@ -206,7 +203,7 @@ The Capture and Organise step of CODE is part of the divergent process, while th
 
 You can decide which way you work when you distinguish between the two work modes. This affects how you work. **In the divergent mode, you can follow every link, go down rabbit holes, and be open to new sources. In a convergent manner, you must be ruthlessly focused on completing the project.** In the convergent stage, you should block yourself off from all distractions; you should already have everything you need to complete the project so you can turn off your phone, disconnect your computer from the internet, let your family know you should be disturbed for the next hour and get to work. 
 
-**When you sit down to complete a project, it can be tempting to do more research because this feels productive, when, in fact, this pulls you out of the convergent mode and into the divergent way where you are unlikely to finish your project. It’s just a sophisticated form of procrastination.**
+<mark style="background: #D2B3FFA6;">**When you sit down to complete a project, it can be tempting to do more research because this feels productive, when, in fact, this pulls you out of the convergent mode and into the divergent way where you are unlikely to finish your project. It’s just a sophisticated form of procrastination.**</mark>
 
 It is tough to operate simultaneously in both the convergent and divergent states of mind because the divergent state requires you to be open to new ideas. In contrast, the convergent state requires you to focus on completing tasks.
 
@@ -229,7 +226,7 @@ W**hat is the smallest version of this project I could complete to get feedback?
 - James Clear, author of *Atomic Habits*
 > 
 
-**Your second brain is for enhancing your productivity and your creativity.**
+<mark style="background: #D2B3FFA6;">**Your second brain is for enhancing your productivity and your creativity.**</mark>
 
 Being organised isn’t a trait you’re born with or a matter of finding the right tools/apps. It is a habit. A repeatable set of actions you take as you encounter, work with, and put information to use.
 
@@ -307,10 +304,10 @@ Any system that must be perfect to be reliable is deeply flawed. A perfect desig
 ## The Path of Self-Expression
 
 > An idea wants to be shared. And, in sharing, it becomes more complex, more interesting, and more likely to work for more people.
-- Adrienne Maree Brown
+    -- Adrienne Maree Brown
 > 
 
-**Our knowledge is our most valuable asset, and our ability to direct our attention is our most valuable skill.** 
+<mark style="background: #D2B3FFA6;">**Our knowledge is our most valuable asset, and our ability to direct our attention is our most valuable skill.**</mark>
 
 In the internet age, the challenge isn’t to find information; it is to close off the information stream long enough to create something ourselves. 
 
@@ -330,7 +327,7 @@ This transition from depending on your biological brain to your Second Brain can
 
 The purpose of knowledge is sharing. As people develop their second brains, they shift from obligation tasks to service. This is because they feel they have their information under control and are less overwhelmed by the quantity of information they consume and make things perfect before they start sharing. If you have good information then you can share that and help out your friends and families. Knowledge is the only resource that gets more valuable the more there is.
 
-There is no reason not to use your knowledge to start sharing today. **Finding your voice and speaking your truth is a radical act of self-worth.**
+There is no reason not to use your knowledge to start sharing today. <mark style="background: #D2B3FFA6;">**Finding your voice and speaking your truth is a radical act of self-worth.**</mark>
 
 There is no single way to build a Second Brain, so get started and change things as you go along. Feel free to discard any parts that aren’t serving you. Here are some ways to get started:
 

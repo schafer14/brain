@@ -7,7 +7,7 @@
 
 ---
 
-The first decade of the 21st century has been a period of **underwhelming growth in business, technology and social progress due to the over-reliance on carrot-and-stick-style motivation**, and as we research this underachievement more closely, it is clear that tweaking that motivation style will not suffice; **we need to rethink how we view motivation fundamentally.**
+The first decade of the 21st century has been a period of **underwhelming growth in business, technology and social progress due to the over-reliance on carrot-and-stick-style motivation**, and as we research this underachievement more closely, it is clear that tweaking that motivation style will not suffice; <mark style="background: #D2B3FFA6;">we need to rethink how we view motivation fundamentally.</mark>
 
 There are seven main **flaws of carrot and stick** motivation that make it unsuitable for most cases:
 
@@ -28,7 +28,7 @@ There are ways to mitigate the consequences of if-then rewards:
 
 **In the workplace, people are receptive to hearing feedback on how they are doing, but only as long as the input isn’t an attempt to manipulate their behaviour**.
 
-The three **components of true motivation are autonomy, mastery and purpose** (in that order)
+The three <mark style="background: #D2B3FFA6;">components of true motivation are autonomy, mastery and purpose</mark> (in that order)
 
 ## Autonomy
 
